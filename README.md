@@ -1,0 +1,1 @@
+NextJs project boilerplate with Styled Components, Colors, TypeScript
