@@ -1,3 +1,5 @@
+import ChatPage from "@/src/components/pages/chat/ChatPage";
+
 export default function Home() {
-  return <div>NextJs with Styled Components and TypeScript</div>;
+  return <ChatPage></ChatPage>;
 }
