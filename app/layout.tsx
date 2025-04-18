@@ -4,7 +4,7 @@ import StyledComponentsRegistry from "@/src/utils/SCRegistery";
 import { PoppinsFont } from "@/src/statics/fonts";
 
 export const metadata: Metadata = {
-  title: "BIMBO",
+  title: "LamaSeek",
   description: "AI Chatbot, Free , Secure , Local",
 };
 
